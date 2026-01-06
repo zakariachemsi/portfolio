@@ -743,7 +743,7 @@ main footer {
     text-align: center;
     color: transparent;
     /* background - fonts*/
-    background:url("../img/poster_video.jpg") top left/15%  ;
+    background:url("https://zakariachemsi.github.io/portfolio/img/poster_video.jpg") top left/15%  ;
     background-clip: text;
     font: 4em  var(--fontf_special_heading);
 }
@@ -1853,6 +1853,7 @@ main pre {
  /*~---------------------------------   Finished!    ---------------------------------~*/
 
   
+
 
 
 
