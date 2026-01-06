@@ -743,7 +743,7 @@ main footer {
     text-align: center;
     color: transparent;
     /* background - fonts*/
-    background:url("/html/en/img/poster_video.jpg") top left/15%  ;
+    background:url("/img/poster_video.jpg") top left/15%  ;
     background-clip: text;
     font: 4em  var(--fontf_special_heading);
 }
@@ -1851,4 +1851,5 @@ main pre {
 
 
  /*~---------------------------------   Finished!    ---------------------------------~*/
+
   
