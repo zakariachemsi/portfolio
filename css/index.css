@@ -270,8 +270,9 @@ section  button[type="button"]:hover::before {
     border-radius: 50%;
     user-select: none;
     cursor: grab;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
+    background-position: center center;
 }
 .container section aside div::before {
     content: '';
@@ -962,3 +963,4 @@ section  main button[type="button"]::before {
 
 
  /*~---------------------------------    Finished!  ---------------------------------~*/
+
